@@ -6,4 +6,6 @@ pymongo[srv]
 certifi
 dill
 pyaml
+mlflow
+dagshub
 scikit-learn
